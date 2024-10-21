@@ -13,6 +13,6 @@ The Project2_DS4002 repository contains the following folders and files:
 5. LICENSE markdown file
 6. README markdown file
 
-7. ## Section 3: Instructions for reproducing results. 
+## Section 3: Instructions for reproducing results. 
 To replicate the methods and results of this study, one can find all the necessary tools and files from this GitHub repository. After accessing the repository, the user can download all the data from the DATA folder. The 1_Data_Creation_Cleaning.ipynb file must be run first in a coding environment such as Google Colab. This file merges the individual hurricane and climate datasets into one cohesive dataset, and it also cleans the dataset including dropping unnecessary variables. Next, the 2_EDA_Project2.ipynb file can be run to obtain the same results from EDA that the group did. Although not imperative to the analysis for this study, the EDA portion serves as additional context into the research question and dives deeper into the variables used in the dataset. Finally, the 3_Analysis_Project2.ipynb file must be run to obtain results using statistical analysis.
 
