@@ -1,1 +1,2 @@
-# DS 4002 Project 2
+## Content ##
+This repository contains all the necessary files and information to analyze time series hurricane and climate change data . It contains a Data, Scripts, and Output folder where the user can find all of the csv files used to obtain the data, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files, as well as the final presentation slides for the project. 
