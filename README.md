@@ -1,5 +1,5 @@
 ## Content ##
-This repository contains all the necessary files and information to analyze time series hurricane and climate change data . It contains a Data, and Output, and Scripts folder where the user can find all of the csv files used to obtain the data, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files, as well as the final presentation slides for the project. 
+This repository contains all the necessary files and information to analyze time series hurricane and climate change data. It contains a Data, Output, and Scripts folder where the user can find all of the csv files used to obtain the data, as well as scripts used for transforming and analyzing the final dataset. The repository also contains the README (this file) and the LICENSE markdown files, as well as the final presentation slides for the project. 
 
 ## Section 1: Software and platforms used 
 The Python programming language was used for all analysis and coding for this project. The packages used in this project that need to be installed include: pandas, matplotlib.pyplot, numpy, and seaborn. Both Mac and Windows platforms were used in this project.
