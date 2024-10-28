@@ -9,7 +9,7 @@ The Project2_DS4002 repository contains the following folders and files:
 1. DATA folder: contains the Final Dataset subfolder, where the merged and cleaned dataset (Hurricane_Dataset.csv) can be found. It also contains the Individual Datasets folder, where one can find data for each individual csv file utilized in the study, which were cleaned and merged together to create the final dataset. Finally, the folder contains the Data Appendix pdf document, named DataAppendix.pdf.
 2. OUTPUT folder: Contains png files of output from exploratory data analysis (EDA), and data visualizations. This includes any scatterplots, line graphs, relevant code output, and other visualizations the group has created for analysis.
 3. SCRIPTS folder: contains three ipynb files which were created by the group to investigate the research question using statistical analysis. The scripts involve data cleaning and creation, EDA, and data analysis.
-4. Final project presenation slides (Group 15 Project 2 Presentation.pdf)
+4. Final project presenation slides (DS 4002 Group 15 Project 2.pdf)
 5. LICENSE markdown file
 6. README markdown file
 
